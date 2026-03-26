@@ -1,0 +1,75 @@
+<?xml version="1.0"?> 
+<signos> 
+    <signo> 
+        <dataInicio>21/03</dataInicio> 
+        <dataFim>20/04</dataFim> 
+        <signoNome>Áries</signoNome> 
+        <descricao>O primeiro signo do zodíaco, Áries é pura energia e liderança. Arianos são conhecidos por sua coragem, dinamismo e impulsividade. Pioneiros por natureza, não têm medo de desbravar novos caminhos e lutar por aquilo que acreditam, sempre com muita paixão e determinação.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Regidos por Vênus, os taurinos são práticos, determinados e apreciam o conforto e a segurança. São conhecidos por sua lealdade e persistência, mas também por sua teimosia. Valorizam a estabilidade, o trabalho duro e os prazeres da vida, como a boa comida e a arte.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Comunicativos, curiosos e versáteis, os geminianos são os intelectuais do zodíaco. Regidos por Mercúrio, adoram aprender, trocar ideias e estão sempre em movimento. Sua dualidade os torna adaptáveis, mas também pode trazer uma certa inconstância.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Emotivos, protetores e muito ligados à família e ao lar. Os cancerianos, regidos pela Lua, são donos de uma intuição poderosa e de um grande coração. Podem ser um pouco tímidos no início, mas criam laços profundos e duradouros com quem amam.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Regidos pelo Sol, os leoninos são carismáticos, generosos e adoram ser o centro das atenções. Possuem uma autoconfiança contagiante e um espírito de liderança natural. São criativos, leais e têm um coração nobre, sempre dispostos a proteger os seus.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Metódicos, analíticos e perfeccionistas, os virginianos são os organizadores do zodíaco. Regidos por Mercúrio, possuem um olhar crítico e uma atenção aos detalhes incomparável. São práticos, trabalhadores e estão sempre dispostos a ajudar de forma útil e eficiente.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Diplomáticos, charmosos e justos, os librianos buscam o equilíbrio e a harmonia em todas as áreas da vida. Regidos por Vênus, apreciam a beleza, a arte e as boas relações. São sociáveis e excelentes mediadores, mas podem ser indecisos ao pesar todos os lados de uma questão.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Intensos, misteriosos e magnéticos. Os escorpianos são passionais e possuem uma força emocional profunda. Regidos por Plutão, são investigativos e buscam a verdade oculta das coisas. São extremamente leais e protetores, mas também podem ser possessivos e desconfiados.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Otimistas, aventureiros e amantes da liberdade. Os sagitarianos, regidos por Júpiter, estão sempre em busca de conhecimento, viagens e novas filosofias de vida. São honestos, bem-humorados e contagiantes com sua energia positiva, mas podem pecar pela falta de tato.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Ambiciosos, responsáveis e disciplinados. Os capricornianos, regidos por Saturno, são mestres do planejamento e da perseverança. São práticos, focados em seus objetivos e valorizam a tradição e a estrutura. Podem parecer sérios, mas possuem um humor seco e são muito confiáveis.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Originais, independentes e humanitários. Os aquarianos são os visionários do zodíaco, sempre pensando no futuro e no coletivo. Regidos por Urano, valorizam a amizade e a liberdade de expressão. São intelectuais, inovadores e um pouco excêntricos, sempre quebrando padrões.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Sonhadores, empáticos e intuitivos. Os piscianos, regidos por Netuno, são extremamente sensíveis e conectados ao mundo espiritual e artístico. Possuem uma compaixão imensa e uma imaginação sem limites. São gentis e adaptáveis, mas podem se perder em seus próprios devaneios.</descricao>
+    </signo>
+</signos> 
