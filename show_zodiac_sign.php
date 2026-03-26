@@ -25,7 +25,7 @@
                     // 2. Carrega o arquivo XML com os signos
                     // O caminho para o arquivo XML é construído a partir do diretório do script atual (__DIR__)
                     // para garantir que funcione independentemente de onde o script é chamado.
-                    $signos = simplexml_load_file(__DIR__ . '/../db/signos.xml');
+                    $signos = simplexml_load_file(__DIR__ . '/db/signos.xml');
                     $signoEncontrado = null;
 
                     // 3. Itera sobre cada signo no XML

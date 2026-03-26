@@ -25,13 +25,13 @@ projetoSignosZodiacoPHP/
 │   └── signos.xml                  # Arquivo XML contendo os dados dos signos
 │
 ├── assets/
-│   ├── layouts/
-│   │   ├── header.php              # Cabeçalho da página (inclusão de CSS/Fontes)
-│   │   └── show_zodiac_sign.php    # Lógica em PHP e tela de exibição do resultado
-│   │
+│   ├── css/
+│   │   └── style.css               # Estilos personalizados da página
 │   └── js/
 │       └── script.js               # Script de validação de datas no lado do cliente
 │
+├── header.php                      # Cabeçalho da página (inclusão de CSS/Fontes)
+├── show_zodiac_sign.php            # Lógica em PHP e tela de exibição do resultado
 └── index.php                       # Página inicial contendo o formulário (Ponto de entrada)
 ```
 
